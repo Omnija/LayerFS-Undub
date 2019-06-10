@@ -1,3 +1,3 @@
-# 3DS Undubbing
+# LayerFS Undubbing
 ### Notes
-This is just a simple language undubbing used with luma.
+This is just a simple language undubbing used with Luma LayeredFS.
