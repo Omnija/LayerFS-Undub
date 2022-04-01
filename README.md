@@ -11,3 +11,4 @@ Files are applied to USA region
 - 0004000000112F00 - Inazuma Eleven Go:  Light (Should be able to use shadow)
 - 000400000017CC00 - Tank Troopers
 - 00040000001B2700 - Yo-kai Watch 2: Psychic Specters
+- 0004000000173700 - Stella Glow
